@@ -1,0 +1,23 @@
+/**
+*Post List Columns
+*/
+
+.blm_geotagged .blm-geotagged-column {
+display: inline-block!important;
+width: 12px;
+height: 12px;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%;
+margin: 3px 10px 0 3px;
+background: #888;
+vertical-align: top;
+}
+
+.blm_geotagged .blm-geotagged-column.yes {
+background: #75bf97;
+}
+
+.blm_geotagged .blm-geotagged-column.no {
+background: #b06060;
+}

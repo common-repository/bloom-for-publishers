@@ -1,0 +1,87 @@
+/**
+*Thickboxes
+*/
+
+.blm-thickbox ul {
+margin: 10px 0 0 0;
+}
+
+.blm-thickbox li {
+margin-left: 20px;
+list-style-type: disc;
+}
+
+.blm-thickbox#blm-thickbox-geotagging {
+margin-bottom: 40px;
+}
+
+.blm-thickbox#blm-thickbox-geotagging p {
+margin: 0;
+}
+
+.blm-thickbox#blm-thickbox-geotagging ul {
+margin-top: 0;
+}
+
+.blm-shortcode {
+float: left;
+clear: both;
+width: 450px;
+padding: 20px;
+border: 1px solid #e1e1e1;
+margin-bottom: 20px;
+}
+
+.blm-shortcode:last-child {
+margin-bottom: 0;
+}
+
+.blm-shortcode h4 {
+font-size: 14px;
+line-height: 14px;
+margin: 0 0 10px 0;
+}
+
+.blm-shortcode-example {
+font-size: 12px;
+line-height: 12px;
+margin-bottom: 20px;
+}
+
+.blm-shortcode p {
+margin: 0;
+}
+
+.blm-shortcode-code {
+background: #f9f9f9;
+padding: 5px 10px;
+font-family: Courier New, monospace, sans-serif;
+word-wrap: break-word;
+}
+
+.blm-shortcode-options {
+float: left;
+clear: left;
+width: 100%;
+}
+
+.blm-shortcode-options p {
+margin: 20px 0 0 0;
+}
+
+#blm-banner-premade p,
+#blm-banner-premade select {
+float: left;
+width: auto;
+display: inline;
+}
+
+#blm-banner-premade select {
+margin: 15px 0 0 15px;
+}
+
+.blm-shortcode-preview {
+float: left;
+width: auto;
+margin-left: 40px;
+}
